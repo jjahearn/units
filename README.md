@@ -1,7 +1,7 @@
 # units
 game of life style haxe project
 
-2016
+2016, Haxe using HaxeFlixel
 
 -units collect resources and build buildings
 
